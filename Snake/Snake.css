@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+
+h1 {
+    font-size: 500px;
+    position: absolute;
+    text-align: center;
+}
+.snake{
+    position: relative;
+    text-size-adjust: 50px;
+}
